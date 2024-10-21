@@ -39,12 +39,11 @@ Let's connect and build innovative AI solutions together! 🌟
 
 ---
 
-- 🔭 I’m currently working as an **AI Engineer @ RED MARBLE AI**
-- 🌱 I’m currently learning **Advanced Multi-Agent Systems and MLOps practices**
-- 👯 I’m looking to collaborate on **open-source AI/ML projects**
-- 🤔 I’m looking for help with **expanding my network in the AI community**
-- 💬 Ask me about **Generative AI, MLOps, and deploying scalable AI solutions**
-- 📫 How to reach me:
+- I’m currently working as an **AI Engineer**
+- I’m looking to collaborate on **open-source AI/ML projects**
+- I’m looking for help with **expanding my network in the AI community**
+- Ask me about **Generative AI, MLOps, and deploying scalable AI solutions**
+- How to reach me:
   **[LinkedIn](https://www.linkedin.com/in/zeerakwyne/)** | **[Email](mailto:zeerak.wyne@gmail.com)**
 
 ---
