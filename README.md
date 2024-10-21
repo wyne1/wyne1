@@ -2,22 +2,18 @@
 
 🚀 With over 6 years of experience in AI and Machine Learning, I've specialized in delivering and integrating tailored Generative AI solutions into client workflows using MLOps best practices. My work enhances business processes and customer interactions across diverse industries.
 
-👨‍💻 **Recent Highlights:**
+👨‍💻 **Recent Projects:**
 - **LLM Invoice Data Extraction:** Developed an invoice extraction pipeline using GPT-3.5, Prompt Engineering and Google Doc AI with few-shot learning to parse unstructured data..
 - **Contract Analysis Tool:** Led the development of a contract analysis tool with Google Gemini to assess compliance against benchmark questions, enhancing review efficiency and accuracy.
 - **Multi-Agent Workflows:** Developed graph-based agentic workflows using LangGraph, enabling multi-agent orchestration and robust solution design.
 - **Crypto Trading Strategist using CrewAI:** Developed collaborative AI agents using CrewAI to analyze real-time cryptocurrency data and generate dynamic, data-driven trading strategies
 - **Carbon Market Forecasting:** employs various models, including LSTM and Convolutional Neural Networks, to predict future carbon auction prices. The project involves extensive feature engineering to capture market dynamics, temporal patterns, and interactions between variables.
 
-🛠️ **My Tech Toolkit Includes:**
+🛠️ **Tech Toolkit Includes:**
 - **Generative AI:** LangChain, LangGraph, HuggingFace, LLMs, Transformers, RAG, Prompt Engineering, Multi-Agent Workflows, Vector Databases.
 - **Machine Learning & AI:** Computer Vision, NLP, Forecasting, Clustering, NLTK, OpenCV, Keras, TensorFlow, PyTorch.
 - **MLOps & Cloud Platforms:** AWS, GCP, Azure, Docker, Kubernetes, MLFlow, Airflow, SageMaker, Databricks, FastAPI.
 - **Databases:** SQL, NoSQL, Postgres, MongoDB, Elasticsearch.
-
-🧠 I thrive in Agile environments, leading teams to fine-tune models, strategize roadmaps, and align technological solutions with business goals. My ability to communicate complex AI/ML concepts to stakeholders bridges the gap between technology and business.
-
-Let's connect and build innovative AI solutions together! 🌟
 
 [![LinkedIn: Zeerak](https://img.shields.io/badge/-Zeerak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zeerakwyne/)](https://www.linkedin.com/in/zeerakwyne/)
 [![GitHub Zeerak](https://img.shields.io/github/followers/wyne1?label=follow&style=social)](https://github.com/wyne1)
