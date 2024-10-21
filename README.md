@@ -15,7 +15,6 @@
 - **MLOps & Cloud Platforms:** AWS, GCP, Azure, Docker, Kubernetes, MLFlow, Airflow, SageMaker, Databricks, FastAPI.
 - **Databases:** SQL, NoSQL, Postgres, MongoDB, Elasticsearch.
 
-### Top Skills:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -36,12 +35,13 @@
 - I’m looking to collaborate on **open-source AI/ML projects**
 - I’m looking for help with **expanding my network in the AI community**
 - Ask me about **Generative AI, MLOps, and deploying scalable AI solutions**
-- How to reach me:
-  **[LinkedIn](https://www.linkedin.com/in/zeerakwyne/)** | **[Email](mailto:zeerak.wyne@gmail.com)**
 
 ---
+**Reach Out**
 
 [![LinkedIn: Zeerak](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/zeerakwyne/)](https://www.linkedin.com/in/zeerakwyne/)
 [![GitHub Zeerak](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wyne1)
 [![Medium Zeerak](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@zeerakwyne)
+[![Gmail Zeerak](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zeerak.wyne@gmail.com)
+
 
