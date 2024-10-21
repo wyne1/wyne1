@@ -15,9 +15,6 @@
 - **MLOps & Cloud Platforms:** AWS, GCP, Azure, Docker, Kubernetes, MLFlow, Airflow, SageMaker, Databricks, FastAPI.
 - **Databases:** SQL, NoSQL, Postgres, MongoDB, Elasticsearch.
 
-[![LinkedIn: Zeerak](https://img.shields.io/badge/-Zeerak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zeerakwyne/)](https://www.linkedin.com/in/zeerakwyne/)
-[![GitHub Zeerak](https://img.shields.io/github/followers/wyne1?label=follow&style=social)](https://github.com/wyne1)
-
 ### Top Skills:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -44,4 +41,5 @@
 
 ---
 
-Feel free to explore my repositories and connect with me!
+[![LinkedIn: Zeerak](https://img.shields.io/badge/-Zeerak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zeerakwyne/)](https://www.linkedin.com/in/zeerakwyne/)
+[![GitHub Zeerak](https://img.shields.io/github/followers/wyne1?label=follow&style=social)](https://github.com/wyne1)
