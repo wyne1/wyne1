@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm Zeerak Nadeem, a passionate AI Engineer at RED MARBLE AI.
+## Hi there! I'm Zeerak Wyne, a passionate AI Engineer from Melbourne.
 
 🚀 With over 6 years of experience in AI and Machine Learning, I've specialized in delivering and integrating tailored Generative AI solutions into client workflows using MLOps best practices. My work enhances business processes and customer interactions across diverse industries.
 
