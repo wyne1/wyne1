@@ -41,7 +41,7 @@
 
 ---
 
-[![LinkedIn: Zeerak](https://img.shields.io/badge/-Zeerak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zeerakwyne/)](https://www.linkedin.com/in/zeerakwyne/)
-[![GitHub Zeerak](https://img.shields.io/github/followers/wyne1?label=follow&style=social)](https://github.com/wyne1)
+[![LinkedIn: Zeerak](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/zeerakwyne/)](https://www.linkedin.com/in/zeerakwyne/)
+[![GitHub Zeerak](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wyne1)
 [![Medium Zeerak](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@zeerakwyne)
 
