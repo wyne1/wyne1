@@ -29,14 +29,6 @@
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
----
-
-- I’m currently working as an **AI Engineer**
-- I’m looking to collaborate on **open-source AI/ML projects**
-- I’m looking for help with **expanding my network in the AI community**
-- Ask me about **Generative AI, MLOps, and deploying scalable AI solutions**
-
----
 **Reach Out**
 
 [![LinkedIn: Zeerak](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/zeerakwyne/)](https://www.linkedin.com/in/zeerakwyne/)
