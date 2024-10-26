@@ -37,3 +37,7 @@
 [![Gmail Zeerak](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zeerak.wyne@gmail.com)
 
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wasif2mehmood&show_icons=true&locale=en&layout=compact" alt="wasif2mehmood" /></p>
+
+
