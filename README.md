@@ -1,4 +1,4 @@
-## Hi there! I'm Zeerak Wyne, a passionate AI Engineer from Australia.
+## Hi there! I'm Zeerak Wyne, a passionate Ml and AI Engineer from Australia.
 
 🚀 With over 6 years of experience in AI and Machine Learning, I've specialized in delivering and integrating tailored Generative AI solutions into client workflows using MLOps best practices. My work enhances business processes and customer interactions across diverse industries.
 
