@@ -35,9 +35,3 @@
 [![GitHub Zeerak](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wyne1)
 [![Medium Zeerak](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@zeerakwyne)
 [![Gmail Zeerak](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zeerak.wyne@gmail.com)
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wyne1&show_icons=true&locale=en&layout=compact" alt="wyne1" /></p>
-
-
