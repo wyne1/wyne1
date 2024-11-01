@@ -3,7 +3,7 @@
 🚀 With over 6 years of experience in AI and Machine Learning, I've specialized in delivering and integrating tailored Generative AI solutions into client workflows using MLOps best practices. My work enhances business processes and customer interactions across diverse industries.
 
 👨‍💻 **Recent Projects:**
-- **LLM Invoice Data Extraction:** Developed an invoice extraction pipeline using GPT-3.5, Prompt Engineering and Google Doc AI with few-shot learning to parse unstructured data..
+- **LLM Invoice Data Extraction:** Developed an invoice extraction pipeline using GPT-3.5, Prompt Engineering and Google Doc AI with few-shot learning to parse unstructured data.
 - **Contract Analysis Tool:** Led the development of a contract analysis tool with Google Gemini to assess compliance against benchmark questions, enhancing review efficiency and accuracy.
 - **Multi-Agent Workflows:** Developed graph-based agentic workflows using LangGraph, enabling multi-agent orchestration and robust solution design.
 - **Crypto Trading Strategist using CrewAI:** Developed collaborative AI agents using CrewAI to analyze real-time cryptocurrency data and generate dynamic, data-driven trading strategies
